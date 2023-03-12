@@ -9,7 +9,7 @@ export default class ProductList extends Component {
   addToCart = (a) => {
     alert(a.productName);
   };
-
+  
   render() {
     return (
       <div>

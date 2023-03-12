@@ -36,11 +36,11 @@ export default class App extends Component {
     let categoryInfo = {
       title: "Category List",
     };
-
+    
     let productInfo = {
       title: "Product List",
     };
-
+      
     return (
       <div>
         <Container>
