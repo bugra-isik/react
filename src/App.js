@@ -34,7 +34,7 @@ export default class App extends Component {
   };
   render() {
     let categoryInfo = {
-      title: "Zort List",
+      title: "Category List",
     };
 
     let productInfo = {
